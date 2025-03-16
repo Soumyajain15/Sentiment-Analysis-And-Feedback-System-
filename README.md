@@ -25,12 +25,4 @@ This project showcases the versatility of UiPath in integrating AI-driven sentim
 Feel free to explore, clone, and contribute to the repository!
 
 This description captures the core functionalities and offers clarity on the automation tasks you've implemented.
-
-
-You said:
-cannot be more than 350 letters
-ChatGPT said:
-Here’s a concise description under 350 characters:
-
 This UiPath project automates sentiment analysis, email sending, Excel-to-PDF conversion, and includes robust exception handling. It analyzes feedback, automates responses, and converts files while ensuring reliability with error handling and logging for smooth execution.
-
